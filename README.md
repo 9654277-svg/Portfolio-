@@ -8,6 +8,6 @@ Detailed Description  
 
 ![RunnningCalculator]([)](https://github.com/9654277-svg/Portfolio-/blob/main/images/calc.png?raw=true)
 
-* [Windows]()
+* [Windows]([)]()
  * [MacOS]()
- * [Sourcecode]()
+ * [Sourcecode]([)](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator.zip)
