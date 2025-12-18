@@ -15,7 +15,7 @@ This project is a fully functional GUI-based calculator built in Processing, a J
 
 ### Group project Game (DIGIPETS) (2025)
 
-This project was built in Processing, a Java-based creative coding envirment. the game showcases coding with a group and it is called Digipets. Digipets is a game where you can clean, play and takk care of a pet. it shows different parts of coding and is a custum UI component creation, and real-time interactions.
+This project was built in Processing, a Java-based creative coding enviroment. the game showcases coding with a group and it is called Digipets. Digipets is a game where you can clean, play and take care of a pet. it shows different parts of coding and is a custom UI component creation, and real-time interactions.
 
 ![](https://github.com/9654277-svg/Portfolio-/blob/main/src/DIGIPETS.png)
 
