@@ -5,8 +5,8 @@
 ### Calculator (2025)
 
 This project is a fully functional GUI-based calculator built in Processing, a Java-based creative coding environment. The calculator features a clean interface and supports various arithmetic and scientific operations, showcasing object-oriented programming principles, custom UI component creation, and real-time interaction.
-![UML]([)](https://github.com/9654277-svg/Portfolio-/blob/main/src/calcUML.jpg)
-![RunnningCalculator]([)](https://github.com/9654277-svg/Portfolio-/blob/main/images/calc.png)
+![UML](https://github.com/9654277-svg/Portfolio-/blob/main/src/calcUML.jpg)
+![RunnningCalculator](https://github.com/9654277-svg/Portfolio-/blob/main/images/calc.png)
 * [Windows]([)](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator/windows-amd64.zip)
  * [MacOS]([)](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator/macos-aarch64.zip)
  * [Sourcecode]([)](https://github.com/9654277-svg/Portfolio-/tree/main/src/Calculator)
@@ -18,5 +18,5 @@ This project was built in Processing, a JAva-based creative coding envirment. th
 
 ![](https://github.com/9654277-svg/Portfolio-/blob/main/src/DIGIPETS.png)
 
-[PROJECT](https://github.com/jamromney/Group-1/tree/main/src/Digipets)
+[DIGIPETS link](https://github.com/jamromney/Group-1/tree/main/src/Digipets)
 
