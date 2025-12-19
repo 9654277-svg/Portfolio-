@@ -11,7 +11,13 @@ This project is a fully functional GUI-based calculator built in Processing, a J
 * [Windows](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator/windows-amd64.zip)
  * [MacOS](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator/macos-aarch64.zip)
  * [Sourcecode](https://github.com/9654277-svg/Portfolio-/tree/main/src/Calculator)
-## Term 2 projects
+
+   ##If Statements (2025)
+
+
+   ![Sourcecode](https://github.com/9654277-svg/Portfolio-/blob/main/src/IfStatements.pde)
+
+   ## Term 2 projects
 
 ### Group project Game (DIGIPETS) (2025)
 
@@ -20,4 +26,5 @@ This project was built in Processing, a Java-based creative coding enviroment. t
 ![Digipets](https://github.com/9654277-svg/Portfolio-/blob/main/src/DIGIPETS.png?raw=true)
 
 [DIGIPETS Sourcecode](https://github.com/jamromney/Group-1/tree/main/src/Digipets)
+
 
