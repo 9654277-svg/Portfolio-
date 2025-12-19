@@ -22,6 +22,8 @@ This Processing sketch demonstrates the use of if and else if statements to calc
 ### BallBounce (2025)
 The Ball class defines a simple moving ball with a position, size, and speed. The ball is drawn as a gray ellipse using the display() method and moves horizontally by updating its x-position in the move() method.
 
+![Image](https://github.com/9654277-svg/Portfolio-/blob/main/src/ball.png?raw=true)
+
 [Sourcecode](https://github.com/9654277-svg/Portfolio-/blob/main/src/BallBounce.pde)
 
    ## Term 2 projects
