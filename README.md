@@ -12,9 +12,8 @@ This project is a fully functional GUI-based calculator built in Processing, a J
  * [MacOS](https://github.com/9654277-svg/Portfolio-/blob/main/src/Calculator/macos-aarch64.zip)
  * [Sourcecode](https://github.com/9654277-svg/Portfolio-/tree/main/src/Calculator)
 
-   ##If Statements (2025)
-
-
+   ###If Statements (2025)
+This Processing sketch demonstrates the use of if and else if statements to calculate and display a letter grade based on a numeric value controlled by the mouse position. As the user moves the mouse horizontally across the screen, the program converts the mouse’s x-coordinate into a grade value and displays it above the cursor. The calcGrade() function checks this value against a grading scale and assigns the appropriate letter grade (A through F).
    ![Sourcecode](https://github.com/9654277-svg/Portfolio-/blob/main/src/IfStatements.pde)
 
    ## Term 2 projects
