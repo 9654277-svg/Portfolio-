@@ -15,8 +15,8 @@ This project is a fully functional GUI-based calculator built in Processing, a J
    ### Timeline (2025)
    This Processing sketch creates an interactive timeline that displays important milestones in the history of computer systems. A horizontal timeline is drawn across the screen, with events placed above and below the line at different positions. Each event is shown as a labeled box connected to the timeline. When the user moves the mouse over an event, additional details about that historical milestone appear at the bottom of the screen. The program uses functions to organize the drawing of the timeline and events, making the code easier to read and reuse.
 
-   [Sourcecode](https://github.com/9654277-svg/Portfolio-/blob/main/src/timeline.png?raw=true)
-
+   ![Image](https://github.com/9654277-svg/Portfolio-/blob/main/src/timeline.png?raw=true)
+   [Sourcecode](https://github.com/9654277-svg/Portfolio-/blob/main/src/sketch_250916a.pde)
    ### If Statements (2025)
 This Processing sketch demonstrates the use of if and else if statements to calculate and display a letter grade based on a numeric value controlled by the mouse position. As the user moves the mouse horizontally across the screen, the program converts the mouse’s x-coordinate into a grade value and displays it above the cursor. The calcGrade() function checks this value against a grading scale and assigns the appropriate letter grade (A through F).
 
